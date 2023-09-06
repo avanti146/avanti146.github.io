@@ -1,2 +1,2 @@
-# avanti146.github.io
+# Avantikka D
 sample repository
